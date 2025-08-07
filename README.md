@@ -1,1 +1,1 @@
-# HLTV.org
+CS stats provider
